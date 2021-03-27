@@ -6,7 +6,7 @@ import GitHubActionPodDemo
 
 class TableOfContentsSpec: QuickSpec {
     override func spec() {
-        describe("these will fail") {
+        describe("these will fails") {
 
 //            it("can do maths") {
 //                expect(1) == 2
